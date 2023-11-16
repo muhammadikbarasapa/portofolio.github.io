@@ -378,7 +378,7 @@ header.sticky{
     .navbar.open{
         left: 0;
     }
-}
+} 
 @media (max-width:800px){
     .holiday{
         grid-template-columns: 1fr;
