@@ -159,8 +159,8 @@ header.sticky{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(150px,auto));
     align-items: center;
+    text-align: center;
     gap: 3rem;
-    margin-top: 5rem;
 }
 .row-img{
     overflow: hidden;
