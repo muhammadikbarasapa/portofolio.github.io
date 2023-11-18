@@ -157,7 +157,7 @@ header.sticky{
 
 .feature-content{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(150px,auto));
+    grid-template-columns: repeat(auto-fit, minmax(150px, auto));
     align-items: center;
     text-align: center;
     gap: 3rem;
