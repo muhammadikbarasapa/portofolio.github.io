@@ -304,6 +304,9 @@ header.sticky{
     color: #ffffab;
     margin-bottom: 35px;
 }
+.tour-text h1{
+    text-align: center;
+}
 #copyright {
     text-align: center;
     width: 100%;
