@@ -307,7 +307,7 @@ header.sticky{
 .tour-text h1{
     text-align: center; 
 }
-.tour-text:hover{
+.tour-text h1:hover{
     animation-name: var(--main-color);
 }
 #copyright {
