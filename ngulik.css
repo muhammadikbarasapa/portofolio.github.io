@@ -305,7 +305,10 @@ header.sticky{
     margin-bottom: 35px;
 }
 .tour-text h1{
-    text-align: center;
+    text-align: center; 
+}
+.tour-text:hover{
+    animation-name: var(--main-color);
 }
 #copyright {
     text-align: center;
